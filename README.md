@@ -1,2 +1,2 @@
-# Spider-bot leg GUI - Matlab
-Una interfaz gráfica de usuario que muestra la posición actual de un mecanismo que emula la pata de una araña en base al ángulo de las articulaciones. 
+# Spider-bot leg's GUI - Matlab
+A graphical user interface that displays the current position of a mechanism that emulates a spider's leg based on the angle of the joints. 
