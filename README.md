@@ -17,4 +17,8 @@ Note: Both files are independent. You can use one or the other depending on whet
 
 ## Folders description 📁
 
-* **[imagenes]**: Esta carpeta contiene todas las imágenes necesarias que son llamadas por el archivo spiderbotApp.mlapp  
+* **[imagenes]**: This folder contains all the necessary images that are called by the spiderbotApp.mlapp file
+
+## Hiring 🤝🏿
+
+If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
