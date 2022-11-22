@@ -19,6 +19,10 @@ Note: Both files are independent. You can use one or the other depending on whet
 
 * **[imagenes]**: This folder contains all the necessary images that are called by the spiderbotApp.mlapp file
 
+## Screenshots 📷
+![image](https://user-images.githubusercontent.com/118120048/203214672-a6859195-2ccc-4391-84f3-8e714cd654be.png)
+
+
 ## Hiring 🤝🏿
 
 If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
